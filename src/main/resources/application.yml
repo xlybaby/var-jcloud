@@ -1,0 +1,7 @@
+server:
+  port: 7001
+  contextPath: /platform
+  
+application:
+  data:
+    rootdir: /Users/apple/Documents/var/workspace/var-pycloud-data
